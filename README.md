@@ -1,6 +1,6 @@
 # Chat-Realtime
 
-Aplikasi ini akan selalu bersetatus (BETA) Karena akan terus di update & dikembangkan. Maka dari itu jangan lupa di fork & like ya sob :).
+Aplikasi ini akan selalu berstatus (BETA) Karena akan terus di update & dikembangkan. Maka dari itu jangan lupa di fork & like ya sob :).
 
 Aplikasi ini dibuat menggunakan:
 - PHP
